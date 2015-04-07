@@ -1,28 +1,28 @@
-PrestaShop Module - So Colissimo Points Relais
+Module PrestaShop - So Colissimo Points Relais
 ==============================================
 
-The PrestaShop Module - **So Colissimo Points Relais** - allows you to propose So Colissimo Points Relais as a carrier.
+Le Module PrestaShop - **So Colissimo Points Relais** - vous permet de créer un transporteur spécifique dédié aux points relais So Colissimo.
 
-For now the module is only available for PrestaShop 1.6.
+Pour le moment, le module n'est compatible qu'avec PrestaShop 1.6.
 
-FOR THIS MODULE TO WORK, YOU NEED TO HAVE A PROFESSIONNAL ACCOUNT ON www.colissimo.fr WITH A SUBSCRIPTION TO "SO COLISSIMO FLEXIBILITE".
+POUR QUE CE MODULE FONCTIONNE, VOUS DEVEZ POSSEDER UN COMPTE PROFESSIONNEL SUR www.colissimo.fr AVEC UN ABONNEMENT A L'OFFRE "SO COLISSIMO FLEXIBILITE".
 
-The module works on the One Page Checkout.
+Le module fonctionne sur le processus de commande en 5 étapes ET en une étape.
 
-The module only displays the Merchants (and NOT the cityssimo and post offices, which are more expensive).
+Le module retourne simplement les Commerçants (et PAS les espaces cityssimo et les bureaux de Poste, vers qui la livraison est plus chère).
 
-It is easy to install and configure. This documentation will explain you how to do that.
+Il est simple à installer et configurer. Cette documentation est là pour vous expliquer comment faire.
 
-If you need help or a custom development, feel free to contact me on `http://ebewe.net/#contact <http://ebewe.net/#contact>`_
+Si vous avez besoin d'aide ou d'un développement spécifique, n'hésitez pas à me contacter sur `http://ebewe.net/#contact <http://ebewe.net/#contact>`_
 
 
 Index:
 ^^^^^^
 
 .. toctree::
-   :maxdepth: 2
+	:maxdepth: 2
 
-   installation
-   configuration
-   uninstallation
-   conclusion
+	   installation
+	   configuration
+	   uninstallation
+	   conclusion

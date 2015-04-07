@@ -1,31 +1,31 @@
 Configuration
 =============
 
-Configuration is in two steps.
+La configuration se fait en deux étapes.
 
-Create a new carrier
-^^^^^^^^^^^^^^^^^^^^
+Créer un nouveau transporteur
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: img/config_1.png
-	:alt: Create a new carrier
+	:alt: Créer un nouveau transporteur
 
-First, you need to create a new carrier named, for example, "So Colissimo Points Relais".
+Tout d'abord, vous devez créer un nouveau transport que vous pouvez nommer par exemple "So Colissimo Points Relais".
 
-Configure it as you would for any other carrier.
+Configurez le normalement, comme vous configureriez un transporteur classique avec ses tranches de prix ou tranches de poids selon vos besoins.
 
-Then, on the module's configuration page
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Ensuite, sur la page de configuration du module
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: img/config_2.png
-   :alt: Configure the module
+   :alt: Configurer le module
 
-Enter your logins to your SoColissimo account. The ID and password you use to connect to your account on www.colissimo.fr.
+Renseignez vos identifiants à votre compte SoColissimo. Il s'agit de l'identifiant et du mot de passe que vous utilisez pour vous connecter à votre compte sur www.colissimo.fr.
 
-Select the carrier you want to use to display the So Colissimo points relais.
+Sélectionnez le transporteur que vous souhaitez utiliser pour afficher les Points Relais So Colissimo sur votre boutique.
 
-In this example, we will select the one we created previously: "So Colissimo Points Relais".
+Dans cet exemple, nous utiliserons celui que nous venons de créer: "So Colissimo Points Relais".
 
-Click on the Save button.
+Cliquez sur le bouton Enregistrer.
 
-Configuration is over, when your customer will arrive on the shipping's choice page, they will now be invited to chose a So Colissimo Point Relais.
+La configuration est terminée, quand vos clients arriveront sur la page de choix du transporteur, ils auront désormais la possibilité de sélectionner un Point Relais So Colissimo.
 
 .. image:: img/front.png
-	:alt: Chose a Point Relais
+	:alt: Choisir un Point Relais

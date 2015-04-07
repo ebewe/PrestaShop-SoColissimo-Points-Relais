@@ -1,21 +1,21 @@
-Uninstallation
-==============
+Désinstallation
+===============
 
-To uninstall the module, follow these steps:
+Pour désinstaller le module, suivez les étapes suivantes:
 
-First, go to Modules page in your Back-Office
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Tout d'abord, rendez-vous sur la page Modules de votre Back-Office
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: img/install_1.png
-   :alt: Go to Modules page
+	:alt: Allez sur la page Modules
 
-Search for So Colissimo Points Relais module
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Recherchez le module So Colissimo Points Relais module
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Click on the arrow next to Configure button
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Cliquez sur la flèche à côté du bouton Configurer
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: img/uninstall_1.png
-   :alt: Uninstall
+	:alt: Désinstaller
 
-* Click on Disable to temporarly disable the module. It will not be uninstalled.
-* Click on Uninstall to uninstall the module. It will be uninstalled but still on your server.
-* Click on Delete to uninstall and delete the module. It will be uninstalled and deleted from your server.
+* Cliquez sur Désactiver pour désactiver temporairement le module. Il ne sera pas désinstallé.
+* Cliquez sur Désinstaller pour désinstaller le module. Il sera désinstallé mais toujours présent sur votre serveur.
+* Cliquez sur Supprimer pour désinstaller et supprimer le module. Il sera désinstallé et supprimé de votre serveur.
