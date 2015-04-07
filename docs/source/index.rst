@@ -22,7 +22,7 @@ Index:
 .. toctree::
 	:maxdepth: 2
 
-	   installation
-	   configuration
-	   uninstallation
-	   conclusion
+	installation
+	configuration
+	uninstallation
+	conclusion

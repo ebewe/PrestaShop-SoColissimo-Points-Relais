@@ -7,4 +7,4 @@ Si vous avez besoin d'aide ou d'un développement spécifique, n'hésitez pas à
 
 
 .. image:: img/logo.png
-:alt: ébewè
+	:alt: ébewè
